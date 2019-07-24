@@ -2,14 +2,18 @@
     background-color: aqua;
     display: flex;
     justify-content:space-between;
+    align-items: center;
 }
 
 .Header-mainHeading{
     color:blue;
+    width: 500px;
 }
 
 .Header-nav{
     color:red;
-    flex-grow:2;
+    display: flex;
+    justify-content: space-between;
+    flex-grow: 1;
     list-style:none;
 }
