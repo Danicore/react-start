@@ -1,0 +1,15 @@
+.Header-main{
+    background-color: aqua;
+    display: flex;
+    justify-content:space-between;
+}
+
+.Header-mainHeading{
+    color:blue;
+}
+
+.Header-nav{
+    color:red;
+    flex-grow:2;
+    list-style:none;
+}
