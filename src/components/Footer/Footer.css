@@ -1,0 +1,16 @@
+.Footer {
+    background: rgb(44, 38, 38)
+}
+
+.Footer-below {
+    display: flex;
+    justify-content: space-around;
+}
+
+.Footer-list {
+    list-style: none;
+}
+
+p {
+    text-align: left;
+}
